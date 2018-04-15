@@ -1,0 +1,1 @@
+These are sample problems to prepare me for interview process. 
